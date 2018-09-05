@@ -60,7 +60,7 @@ class App extends React.Component {
   render() {
     // console.log(iChing.hexagram(8).topTrigram.familyRelationship);
     // console.log(iChing.hexagram(5).changeTo(43).to.names[0]);
-    console.log(iChing);
+    // console.log(iChing);
     // console.log(iChing.trigram(1));
 
     const { hexagram, found } = this.state;
